@@ -18,6 +18,10 @@ Below is a list of the examples provided here.  Each such project should have th
 
 Minimal example of a Kafka producer and consumer.
 
+### SimpleFlafka
+
+Simple example using Flume and Kafka consumer groups.
+
 ## Getting Started
 
 In general, you will need the latest version of Java and Maven appropriate
