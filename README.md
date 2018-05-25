@@ -14,6 +14,10 @@ Welcome to the code repository for CDK/CDH Releases Powered by Apache Kafka. The
 
 Below is a list of the examples provided here.  Each such project should have their own README with details specific to that project.
 
+### SimpleClient
+
+Minimal example of a Kafka producer and consumer.
+
 ## Getting Started
 
 In general, you will need the latest version of Java and Maven appropriate
