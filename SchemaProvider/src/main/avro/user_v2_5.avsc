@@ -1,0 +1,10 @@
+{"namespace": "com.cloudera.examples.avroserialization",
+  "type": "record",
+  "name": "User2",
+  "fields": [
+    {"name": "identifier", "type": "string"},
+    {"name": "display_name", "type": ["string", "null"]},
+    {"name": "year_of_birth", "type": "int"}
+
+  ]
+}

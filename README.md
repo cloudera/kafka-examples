@@ -22,6 +22,10 @@ Minimal example of a Kafka producer and consumer.
 
 Simple example using Flume and Kafka consumer groups.
 
+### SchemaProvider
+
+Example of efficient serialization and schema versioning using Apache Avro.
+
 ## Getting Started
 
 In general, you will need the latest version of Java and Maven appropriate
