@@ -26,6 +26,10 @@ Simple example using Flume and Kafka consumer groups.
 
 Example of efficient serialization and schema versioning using Apache Avro.
 
+### StructuredStreamingRefApp
+
+Sample applications that demonstrate a Kafka -> Spark Structured Streaming -> Kudu pipeline for ingestion
+
 ## Getting Started
 
 In general, you will need the latest version of Java and Maven appropriate

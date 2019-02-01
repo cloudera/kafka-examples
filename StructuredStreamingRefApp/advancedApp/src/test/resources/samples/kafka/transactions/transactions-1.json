@@ -1,0 +1,5 @@
+{"transaction_id": "11", "customer_id": 1,  "vendor_id": 1, "event_state": "CREATED", "event_timestamp": "2018-11-12 09:42:00", "price": "100", "card_type": "Credit"}
+{"transaction_id": "12", "customer_id": 2,  "vendor_id": 2, "event_state": "SWIPED", "event_timestamp": "2018-11-13 09:43:00", "price": "100", "card_type": "Debit"}
+{"transaction_id": "13", "customer_id": 1,  "vendor_id": 1, "event_state": "SWIPED", "event_timestamp": "2018-11-13 09:43:01", "price": "100", "card_type": "Debit"}
+{"transaction_id": "13", "customer_id": 2,  "vendor_id": 2, "event_state": "AUTHORIZED", "event_timestamp": "2018-11-13 09:44:01", "price": "100", "card_type": "Debit"}
+{"transaction_id": "13", "customer_id": 1,  "vendor_id": 1, "event_state": "AUTHORIZED", "event_timestamp": "2018-11-13 09:45:05", "price": "100", "card_type": "Debit"}

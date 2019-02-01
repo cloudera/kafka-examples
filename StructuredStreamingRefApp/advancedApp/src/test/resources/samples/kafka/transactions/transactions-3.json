@@ -1,0 +1,2 @@
+{"transaction_id": "31", "customer_id": 1,  "vendor_id": 1, "event_state": "CREATED", "event_timestamp": "2018-11-13 09:45:00", "price": "100", "card_type": "Whatever"}
+{"transaction_id": "32", "customer_id": 1,  "vendor_id": 1, "event_state": "CREATED", "event_timestamp": "2018-11-14 09:47:00", "price": "100", "card_type": "Credit"}

@@ -1,0 +1,3 @@
+{"customer_id": 1, "first_name": "John", "last_name": "Doe", "state_id": 3, "update_timestamp": "2018-11-13"},
+{"customer_id": 2, "first_name": "Jane", "last_name": "Miller", "state_id": 5, "update_timestamp": "2018-11-13"}
+{"customer_id": 3, "first_name": "Joe", "last_name": "Smith", "state_id": 2, "update_timestamp": "2018-11-13"}

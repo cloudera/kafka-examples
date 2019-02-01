@@ -1,0 +1,3 @@
+{"transaction_id": "21", "customer_id": 100,  "vendor_id": 2, "event_state": "SWIPED", "event_timestamp": "2018-11-13 09:45:01", "price": "100", "card_type": "Debit"}
+{"transaction_id": "22", "customer_id": 1,  "vendor_id": 200, "event_state": "SWIPED", "event_timestamp": "2018-11-13 09:45:02", "price": "100", "card_type": "Debit"}
+{"transaction_id": "23", "customer_id": 1,  "vendor_id": 1, "event_state": "INVALID", "event_timestamp": "2018-11-13 09:45:05", "price": "100", "card_type": "Credit"}
